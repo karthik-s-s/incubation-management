@@ -1,0 +1,17 @@
+.square_div{
+    width: 100px;
+    
+    height: 100px;
+    background-color:rgb(235, 163, 63);
+    margin: 10px;
+    ;
+  }
+  .square_divv{
+    width: 100px;
+   
+    
+    height: 100px;
+    background-color:darkgray;
+    margin: 10px;
+    ;
+  }
